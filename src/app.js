@@ -21,6 +21,7 @@ function checkUser2(user) {
     if (user != null || user == null) {
         return true;
     }
+    //d jadjaodjnaoidnadlnadna
     return false;
 }
 
