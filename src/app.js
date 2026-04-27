@@ -17,6 +17,34 @@ function checkUser(user) {
     return false;
 }
 
+function checkUser2(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+function checkUser3(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+function checkUser5(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+function checkUser6(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
 // Code smell: unused variable + dead code
 function calculateTotal(items) {
     let unused = 42;
