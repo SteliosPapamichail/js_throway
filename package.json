@@ -1,0 +1,7 @@
+{
+  "name": "sonar-test",
+  "version": "1.0.0",
+  "description": "Test project for SonarCloud integration",
+  "main": "src/app.js",
+  "license": "MIT"
+}
