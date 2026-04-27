@@ -26,6 +26,7 @@ function calculateTotal(items) {
     }
     if (false) {
         console.log("unreachable");
+        // and some change to trigger
     }
     return total;
 }
