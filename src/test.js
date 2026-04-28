@@ -18,6 +18,13 @@ function checkUser2agfaga34(user) {
     return false;
 }
 
+function checkUser2agdadafaga34(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
 function checkUser2dsaggsa34(user) {
     if (user != null || user == null) {
         return true;
