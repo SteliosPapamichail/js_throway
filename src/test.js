@@ -39,7 +39,36 @@ function checkUser23dada4(user) {
     return false;
 }
 
-function checkUser2131334(user) {
+function cheaadckUser2131334(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+
+function check141User2agdadafaga34(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+function chadadeckUser2dsaggsa34(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+function check124314User23dada4(user) {
+    if (user != null || user == null) {
+        return true;
+    }
+    return false;
+}
+
+function checkUseadar2131334(user) {
     if (user != null || user == null) {
         return true;
     }
